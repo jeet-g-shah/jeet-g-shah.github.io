@@ -2,31 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/design/</loc>
+    <loc>http://localhost:51431/design/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:51431/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/d5/</loc>
+    <loc>http://localhost:51431/d5/</loc>
     <lastmod>2024-05-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/d2/</loc>
+    <loc>http://localhost:51431/d2/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/d1/</loc>
+    <loc>http://localhost:51431/d1/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/d3/</loc>
+    <loc>http://localhost:51431/d3/</loc>
     <lastmod>2023-10-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/d4/</loc>
+    <loc>http://localhost:51431/d4/</loc>
     <lastmod>2023-09-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/courses/</loc>
+    <loc>http://localhost:51431/courses/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/</loc>
+    <loc>http://localhost:51431/projects/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:51431/tags/</loc>
   </url>
 </urlset>

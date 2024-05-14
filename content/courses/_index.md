@@ -29,9 +29,3 @@ Selected graduate level courses:
 
 <div class="thinline"></div>
 
-
-<ol>
-   <li>a</li>
-   <li>b</li>
-   <li>c</li>
-</ol>
