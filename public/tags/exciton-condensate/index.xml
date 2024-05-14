@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Exciton Condensate on Jeet Shah</title>
+    <link>http://localhost:1313/tags/exciton-condensate/</link>
+    <description>Recent content in Exciton Condensate on Jeet Shah</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 11 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/exciton-condensate/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Renormalization group study of systems with quadratic band touching</title>
+      <link>http://localhost:1313/1/</link>
+      <pubDate>Tue, 11 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/1/</guid>
+      <description>The perturbative effects of interactions in two two-dimensional systems with a single quadratic band touching point have been studied at a transition point. The effects of interactions have been studied using the renormalization group (RG) at one-loop level and it is found that at the transition a repulsive interaction is marginally relevant and an attractive interaction is marginally irrelevant. We corroborate the results obtained from the RG calculation by studying a microscopic model the ground state and Green&amp;rsquo;s functions of which can be obtained exactly. We find that away from the transition the system displays an instability towards forming an excitonic condensate.</description>
+    </item>
+    
+  </channel>
+</rss>
