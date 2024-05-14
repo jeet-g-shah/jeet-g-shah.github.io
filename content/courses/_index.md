@@ -18,6 +18,13 @@ description: "Undergraduate and graduate courses on business cycles, economic sl
 
 ## At Indian Institute of Science, College Park
 
-Selected courses:
+Selected graduate level courses:
 
-1. 
+1. PH 316: Advanced Mathematical Methods
+6. PH 320: Condensed Matter Physics II
+5. PH 340: Quantum Statistical Field Theory
+4. PH 354: Computational Physics
+2. PH 364: Topological Phases of Matter
+3. PH 395: Quantum Field Theory I
+
+<div class="thinline"></div>
