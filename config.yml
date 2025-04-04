@@ -53,7 +53,7 @@ params:
     profileMode:
           enabled: true
           title: Jeet Shah
-          subtitle: "I am a doctoral candidate in physics at the University of Maryland, College Park. I am interested in theoretical condensed matter physics. Specifically, I am interested in quantum spin liquids, quantum dimer models, gauge theories and mixed state phases."
+          subtitle: "I am a fifth year PhD candidate in physics, being coadvised by Prof. Alexey Gorshkov and Prof. Victor Galitski at the University of Maryland, College Park. I am interested in theoretical condensed matter physics and quantum information. Specifically, I am interested in quantum spin liquids, quantum dimer models, gauge theories and mixed state phases."
           imageUrl: "/picture.jpeg"
           imageWidth: 160
           imageHeight: 160
