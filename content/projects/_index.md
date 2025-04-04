@@ -39,13 +39,13 @@ description: "Research projects"
 
 **Abstract:** Recent experimental progress in controlling open quantum systems enables the pursuit of mixed-state nonequilibrium quantum phases. We investigate whether open quantum systems hosting mixed-state symmetry-protected topological states as steady states retain this property under symmetric perturbations. Focusing on the decohered cluster state -- a mixed-state symmetry-protected topological state protected by a combined strong and weak symmetry -- we construct a parent Lindbladian that hosts it as a steady state. This Lindbladian can be mapped onto exactly solvable reaction-diffusion dynamics, even in the presence of certain perturbations, allowing us to solve the parent Lindbladian in detail and reveal previously-unknown steady states. Using both analytical and numerical methods, we find that typical symmetric perturbations cause strong-to-weak spontaneous symmetry breaking at arbitrarily small perturbations, destabilize the steady-state mixed-state symmetry-protected topological order. However, when perturbations introduce only weak symmetry defects, the steady-state mixed-state symmetry-protected topological order remains stable. Additionally, we construct a quantum channel which replicates the essential physics of the Lindbladian and can be efficiently simulated using only Clifford gates, Pauli measurements, and feedback.
 
-### [[2] Renormalization group study of systems with quadratic band touching](https://arxiv.org/abs/2011.00249)
+### [[2] Renormalization group study of systems with quadratic band touching](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.103.195118)
 
 **Authors: Jeet Shah**, and Subroto Mukerjee
 
 **Abstract:** Lifshitz transitions in two 2D systems with a single quadratic band touching point as the chemical potential is varied have been studied here. The effects of interactions have been studied using the renormalization group (RG) and it is found that at the transition a repulsive interaction is marginally relevant and an attractive interaction is marginally irrelevant. We corroborate the results obtained from the RG calculation by studying a microscopic model whose ground state and Green's functions can be obtained exactly. We find that away from the transition, the system displays an instability towards forming and excitonic condensate.
 
-### [[1] Gauging the Kitaev chain](https://arxiv.org/abs/2010.00607)
+### [[1] Gauging the Kitaev chain](https://scipost.org/SciPostPhys.10.6.148)
 
 **Authors:** Umberto Borla, Ruben Verresen, **Jeet Shah**, and Sergej Moroz
 
