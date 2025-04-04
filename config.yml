@@ -57,7 +57,7 @@ params:
           <br>
           <b> Research Interests:</b> Quantum Algorithms, Quantum Information, Quantum Many-body Physics, Quantum Simulation.
           <br>
-          <b> Skills</b>: Python, Qiskit, Julia, C++, Tensor Network Methods, Clifford circuit simulations, Monte Carlo simulations, Git."
+          <b> Skills</b>: Python, Qiskit, Julia, C++, Tensor Network Methods, Clifford Circuit Simulations, Monte Carlo Simulations, Git."
           imageUrl: "/picture.jpeg"
           imageWidth: 160
           imageHeight: 160
