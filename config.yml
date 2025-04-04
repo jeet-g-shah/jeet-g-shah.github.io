@@ -53,7 +53,10 @@ params:
     profileMode:
           enabled: true
           title: Jeet Shah
-          subtitle: "I am a fifth year PhD candidate in physics, being coadvised by Prof. Alexey Gorshkov and Prof. Victor Galitski at the University of Maryland, College Park. I am interested in theoretical condensed matter physics and quantum information. Specifically, I am interested in quantum spin liquids, quantum dimer models, gauge theories and mixed state phases."
+          subtitle: "Welcome to my webpage! I’m Jeet Shah, a fifth-year PhD candidate at the University of Maryland, College Park, co-advised by Prof. Alexey Gorshkov and Prof. Victor Galitski. My background is in condensed matter theory, and I am currently interested in quantum information. Specifically, I am interested to explore how current and near-term quantum devices can be leveraged to solve problems in quantum many-body physics. I am particularly interested in developing and optimizing near-term quantum algorithms for practical applications, pushing the boundaries of what is possible with today’s quantum devices.
+          
+          <b> Research Interests:</b> Quantum Algorithms, Quantum Information, Quantum Many-body Physics, Quantum Simulation.
+          <b> Skills</b>: Python, Qiskit, Julia, C++, Tensor Network Methods, Clifford circuit simulations, Monte Carlo simulations, Git."
           imageUrl: "/picture.jpeg"
           imageWidth: 160
           imageHeight: 160
